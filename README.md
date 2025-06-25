@@ -103,6 +103,7 @@ VITE_projectId=your_project_id
 VITE_storageBucket=your_storage_bucket
 VITE_messagingSenderId=your_sender_id
 VITE_appId=your_app_id
+VITE_root_api_url=server-site-link
 ```
 
 ---
