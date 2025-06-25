@@ -2,7 +2,7 @@
 
 A **feature-rich, user-friendly Car Rental Platform** built using modern frontend technologies. Users can explore, add, book, and manage cars for rent with real-time updates and responsive design.
 
-<img src="https://i.ibb.co/ccqRYTtZ/Hi-1.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/FkwJGqQq/Screenshot-2025-06-25-145132.png" align="center" style="width: 100%" />
 
 ## 🌐 Live Site
 
