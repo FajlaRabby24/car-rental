@@ -81,6 +81,16 @@ This project is part of an assignment to evaluate the ability to create a full-f
 
 ---
 
+## 🛠️ Run Locally
+
+1. Clone the project
+
+bash
+git clone https://github.com/FajlaRabby24/car-rental.git
+
+
+---
+
 ## 📁 Folder Structure (Client Side)
 
 ├── assets/ # Images & static files
